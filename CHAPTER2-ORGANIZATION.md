@@ -29,5 +29,7 @@ To ensure this happens, we have a standard hierarchy for this organization:
 - **Project Managers**
   - Project Managers runs their own projects or a related project within their interest scope, they have administrative powers on their project repositories,
   and are responsible in electing other managers for their project.
-  
+ 
+ - **Contributors** 
+   - Contributors are responsible for maintaining a specific project they are opted-in to. They may be under Clarity or any governing organizations.
   
