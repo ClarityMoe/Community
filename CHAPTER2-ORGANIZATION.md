@@ -10,7 +10,7 @@ To ensure this happens, we have a standard hierarchy for this organization:
   and they have the authority to ratify guidelines with proper consultation from other administrative groups.
 
 
-- **Co-leader**
+- **Co-Leader**
   - The Co-Leader shares the same responsibilities and duties of this organization. However, the Co-Leader has limited responsibilties
   and is only active when the Leader is not present, or a special duty of interest has been set to him/her. They also have the right to ratify
   new guidelines, but require consultation from the Leader and other administrative groups.
