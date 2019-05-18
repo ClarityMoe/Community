@@ -45,9 +45,10 @@ Closes GH-1929
  
  - `` [game/Window] Fix openGL context not being drawn correctly to window``
  
- What we do't encourage is
+ What we don't encourage is
  
  - ``[game/XY] Update file``
  - `` [game/XY] delete unnnecessary JSON file``
  
  
+ As they don't explain what was edited, although scope was proper. This does not tell immediately what was changed.
