@@ -37,6 +37,12 @@ Closes GH-1929
  
  Scope of the change should be the area of a code or a subsystem. Say if you're editing `file.foo` from `game/Sample`, your scope is `game/Sample` and not `game/Sample/file.foo` or `file.foo`.
  
+ In the event the change list is not granular enough, you can use the name of the project itself as a scope. In the case of multiple edited entities, you can also use both subsystems, as stated:
+ 
+ ```
+ [game/Hitwindow + ci] change HitWindows
+ ```
+ 
  ## Allowed Summary format
  
  Summaries should explain the commit in detail as stated previously, however, committer must detail what kind of change they have to perform, examples may be:
