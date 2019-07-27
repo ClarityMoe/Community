@@ -1,6 +1,6 @@
 # Chapter 3 - Commit Conventions
 
-We enncourage a commit convention style utilized by the Linux kernel. Unlike semantic commit messages, we only focus on the scope and summary of the change instead of formatting it with the commit type, scope and summary. 
+We encourage a commit convention style utilized by the Linux kernel. Unlike semantic commit messages, we only focus on the scope and summary of the change instead of formatting it with the commit type, scope and summary. 
 
 ## The Format
 
@@ -42,6 +42,15 @@ Closes GH-1929
  ```
  [game/Hitwindow + ci] change HitWindows
  ```
+ 
+ ### Special Scopes
+ 
+ In some cases a part you edited does not qualify inside a subsystem, you can use these reserved scopes:
+ 
+ - `ci` is for CI/CD scripts
+ - `doc` is for documentation 
+ 
+ This allows you to still define proper scopesfor your project if changes do not qualify to what was stated in this guideline.
  
  ## Allowed Summary format
  
