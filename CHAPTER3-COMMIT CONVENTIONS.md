@@ -67,3 +67,13 @@ Closes GH-1929
  
  
  As they don't explain what was edited, although scope was proper. This does not tell immediately what was changed.
+ 
+ ## Skipping CI
+ 
+ CIs are designed to parse "skip CI" in commit messages to skip checks. We allow putting this keyword on your commit messages in any form as long as the CI can acknowledge it.
+ 
+ **Example**
+ 
+ ```
+ $ [.ci] [SKIP CI] Commit Message here
+ ```
