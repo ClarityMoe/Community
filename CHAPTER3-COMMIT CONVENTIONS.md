@@ -18,11 +18,11 @@ This keeps the initial summary concise, details should be reserved in the second
 
 ## Subject should capitalize the first letter
 
-Commits are not required to follow specific English syntax queues, preferrably now the subject line is now encouraged to be capitalized at the first letter.
+Commits are now required to follow some English syntax queues, preferrably now the subject line is now encouraged to be capitalized at the first letter.
 
 ## Subject should not have a period or any punctuation marks at the end
 
-In accordance to the subject character limit rule, punctuation marks near the end of the subject line is now illegal.
+In accordance to the subject character limit rule, punctuation marks at the end of the subject line is now illegal.
 
 ## Commits should be in imperative tone
 
