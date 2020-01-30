@@ -40,7 +40,7 @@ Adapted from the Linux kernel,  the 2W1H format structures the messages on three
 This is entirely optional, but encouraged, since it presents a rather good structure when explaining complex commits.
 
 
-## References:
+## References
 
 - Chris Beam's [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - Petter Hutterer's [On Commit Messages](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
